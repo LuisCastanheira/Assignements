@@ -1,0 +1,12 @@
+C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\bin\Debug\NUnitSuperSimpleStocks.exe
+C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\bin\Debug\NUnitSuperSimpleStocks.pdb
+C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\bin\Debug\nunit-console-runner.dll
+C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\bin\Debug\nunit.framework.dll
+C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\bin\Debug\SuperSimpleStocks.dll
+C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\bin\Debug\nunit.util.dll
+C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\bin\Debug\nunit.core.dll
+C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\bin\Debug\SuperSimpleStocks.pdb
+C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\obj\x86\Debug\NUnitSuperSimpleStocks.csprojResolveAssemblyReference.cache
+C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\obj\x86\Debug\NUnitSuperSimpleStocks.exe
+C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\obj\x86\Debug\NUnitSuperSimpleStocks.pdb

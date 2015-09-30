@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Users\Luis_&amp;_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\NUnitSuperSimpleStocks.csproj</TopNode>
+  <SelectedNode>[0-1000]C:\Users\Luis_&amp;_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\NUnitSuperSimpleStocks.csproj</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Users\Luis_&amp;_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\NUnitSuperSimpleStocks.csproj" Expanded="true" />
+    <Node UniqueName="[0-1014]C:\Users\Luis_&amp;_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\NUnitSuperSimpleStocks\bin\Debug\NUnitSuperSimpleStocks.exe" Expanded="true" />
+    <Node UniqueName="[0-1015]NUnitSuperSimpleStocks" Expanded="true" />
+    <Node UniqueName="[0-1001]NUnitSuperSimpleStocks.StocksUtilsTests" Expanded="true" />
+    <Node UniqueName="[0-1009]NUnitSuperSimpleStocks.StocksUtilsTests.TestValidSymbolsPrice" Expanded="true" />
+  </Nodes>
+</VisualState>
