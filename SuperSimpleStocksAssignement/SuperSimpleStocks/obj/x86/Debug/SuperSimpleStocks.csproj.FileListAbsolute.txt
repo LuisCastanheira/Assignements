@@ -1,4 +1,0 @@
-C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.dll
-C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.pdb
-C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\SuperSimpleStocks\obj\x86\Debug\SuperSimpleStocks.dll
-C:\Users\Luis_&_Telma\Desktop\jpmorgan\SuperSimpleStocksAssignement\SuperSimpleStocks\obj\x86\Debug\SuperSimpleStocks.pdb
